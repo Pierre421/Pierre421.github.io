@@ -37,7 +37,7 @@ a {
 
 /* main container area beneath menu */
 main {
-    background: rgb(245, 238, 219);
+    background-color: gray;
     display: flex;
 }
 .sidebar {
